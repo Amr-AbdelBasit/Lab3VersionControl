@@ -13,5 +13,7 @@ namespace Lab3
         public string Summary { get; set; }
 
         public int ID { get; set; }
+
+        public string Description { get; set; }
     }
 }
